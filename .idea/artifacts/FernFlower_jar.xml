@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FernFlower:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FernFlower_jar</output-path>
+    <root id="archive" name="FernFlower.jar">
+      <element id="module-output" name="FernFlower" />
+    </root>
+  </artifact>
+</component>
